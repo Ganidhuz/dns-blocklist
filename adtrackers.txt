@@ -5,7 +5,6 @@
 doubleclick.net
 googlesyndication.com
 googleadservices.com
-google-analytics.com
 googletagmanager.com
 googletagservices.com
 facebook.net
