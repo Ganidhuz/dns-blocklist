@@ -7,11 +7,6 @@ googlesyndication.com
 googleadservices.com
 googletagmanager.com
 googletagservices.com
-facebook.net
-facebook.com/tr
-analytics.facebook.com
-ads.twitter.com
-ads.linkedin.com
 adsrvr.org
 adnxs.com
 criteo.com
